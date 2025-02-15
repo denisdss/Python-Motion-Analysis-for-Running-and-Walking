@@ -1,0 +1,2 @@
+Title,Format,Codec,Frames,Duration,FPS,Width,Height,PxM,HOC,Horizontal Distance,Vertical Distance,Total Distance,Average Velocity,Steps Taken,Script Execution Time (s)
+run,mp4,h264,326,5,59.94005994005994,320,240,100,0.0005,3.093,0.792,3.885,1.383,7,16.57
