@@ -39,7 +39,7 @@ pip install -r data/requirements.dat
 ## 🚀 Usage
 
 ```bash
-python main.py --video path/to/video.mp4
+python main.py
 ```
 
 ## 📄 Project Structure
