@@ -77,8 +77,9 @@ This project is licensed under the MIT License.
 
 ## 📬 Contact
 
-Denis DSS - [[denisdss@outlook.com](mailto\:denisdss@outlook.com)]
-Software Engineer
+Denis DSS - Software Engineer
+[[denisdss@outlook.com](mailto\:denisdss@outlook.com)]
+
 
 ## ☕ Pay me a Coffee
 
@@ -88,7 +89,4 @@ PIX Brazilian Network: fc6efbb0-287c-498c-b4aa-e5c70578d6ab
 
 Buy me a coffee APP: http\://buymeacoffee.com/denisdss
 
----
-
-Made with ❤️ using OpenCV & Python.
 
