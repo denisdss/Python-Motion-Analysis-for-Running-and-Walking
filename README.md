@@ -87,6 +87,8 @@ Ethereum Network: 0x0F8D4366ff23ee657B8aC5713C4E1591976C46c2
 
 PIX Brazilian Network: fc6efbb0-287c-498c-b4aa-e5c70578d6ab
 
+Paypal Donation: https://www.paypal.com/donate/?business=P2HRRJZ3YZWHW&currency_code=USD
+
 Buy me a coffee APP: http\://buymeacoffee.com/denisdss
 
 
