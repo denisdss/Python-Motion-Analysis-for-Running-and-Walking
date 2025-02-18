@@ -15,9 +15,9 @@ This project is a video analysis tool designed to analyze human gait and running
 - Optimized for real-time analysis
 
 ## 📷 Screenshots
-![Gait cycle visualization](https://github.com/denisdss/Python-Motion-Analysis-for-Running-and-Walking/raw/main/docs/video.png)
-![Graph from video](https://github.com/denisdss/Python-Motion-Analysis-for-Running-and-Walking/raw/main/data/output/run/graph.png)
-![Running analysis](https://github.com/denisdss/Python-Motion-Analysis-for-Running-and-Walking/raw/main/docs/specs_info.png)
+![Video visualization](docs/video.png)
+![Output: Graph from video](data/output/run/graph.png)
+![Running analysis](docs/specs_info.png)
 
 ## 🛠️ Technologies
 
@@ -69,7 +69,7 @@ python main.py
 
 ## 🤝 Contributing
 
-Feel free to submit pull requests or open issues!
+Feel free to contribute! Fork the repository, implement improvements, and submit a pull request or open issues. Any feedback is also welcome. 🚀
 
 ## 📜 License
 
